@@ -22,7 +22,6 @@
 - [Living Social Pair](https://github.com/livingsocial/ls-pair) - A set of tools and resources to set up a good pair programming environment via SSH.
 - [TMUX](https://pragprog.com/book/bhtmux/tmux) - A book covering TMUX, a terminal multiplexer that enables remote pairing (2012).
 
-___
 
 ## Editor Plugins
 
@@ -38,7 +37,6 @@ ___
 
 - [TMUX](https://tmux.github.io/) - TMUX is a terminal multiplexer that enables pair programming as well as much more.
 
-___
 
 ## Find Pair Programmers
 
@@ -50,7 +48,6 @@ ___
 - [Air Pair](https://www.airpair.com/) - Pair with experts on pretty much any topic programming related.
 - [Code Mentor](https://www.codementor.io/) - Codementor is your live 1:1 expert mentor helping you in real time.
 
-___
 
 ## License
 
