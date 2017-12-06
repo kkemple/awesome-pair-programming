@@ -29,13 +29,29 @@
 
 - [Mote Pair](https://atom.io/packages/motepair) - Remote pair programming tool for Atom. Lag free!
 - [Atom Pair](https://atom.io/packages/atom-pair) - Remote pairing within the Atom text editor, powered by Pusher.
+- [Floobits Atom](https://github.com/Floobits/floobits-atom) - Remote, cross-IDE pair programming, powered by Floobits.
+
+### EMACS Plugins
+- [Floobits EMACS](https://github.com/Floobits/floobits-emacs) - Remote, cross-IDE pair programming, powered by Floobits.
+
+### IntelliJ Plugins
+- [Floobits IntelliJ](https://github.com/Floobits/floobits-intellij) - Remote, cross-IDE pair programming, powered by Floobits.
 
 ### Sublime Text Plugins
-
+- [Remote Sublime](http://teamremote.github.io/remote-sublime/) - Remote Collab is an open-source SublimeText plugin for remote pair programming, allowing multiple developers to work together on the same project in real-time.
+- [Subliminal Collaborator](https://github.com/nlloyd/SubliminalCollaborator) - Sublime Text 2 Plugin for remote pair programming
+- [Floobits Sublime](https://github.com/Floobits/floobits-sublime) - Remote, cross-IDE pair programming, powered by Floobits (Sublime 2 & 3).
 
 ### Vim Plugins
 
 - [TMUX](https://tmux.github.io/) - TMUX is a terminal multiplexer that enables pair programming as well as much more.
+- [Floobits Vim](https://github.com/Floobits/floobits-vim) - Remote, cross-IDE pair programming, powered by Floobits.
+
+
+## Apps
+
+- [Slack - ScreenHero](https://slack.com/screenhero) - A screen-sharing client built into the Slack platform (_previously screenhero_).
+- [CollabEdit](http://collabedit.com/) - Collabedit is an online code editor that lets people collaborate in real-time.
 
 
 ## Find Pair Programmers
