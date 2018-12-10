@@ -9,6 +9,7 @@
   - [Atom Plugins](#atom-plugins)
   - [Sublime Text Plugins](#sublime-text-plugins)
   - [Vim Plugins](#vim-plugins)
+  - [Visual Studio Code Plugins](#visual-studio-code-plugins)
 - [Apps](#apps)
 - [Find Pair Programmers](#find-pair-programmers)
   - [General Pair Programming](#general-pair-programmers)
@@ -47,6 +48,10 @@
 - [TMUX](https://tmux.github.io/) - TMUX is a terminal multiplexer that enables pair programming as well as much more.
 - [Floobits Vim](https://github.com/Floobits/floobits-vim) - Remote, cross-IDE pair programming, powered by Floobits.
 
+### Visual Studio Code Plugins
+
+- [Visual Studio Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building. It allows you to instantly (and securely) share your current project, and then as needed, share debugging sessions, terminal instances, localhost web apps, voice calls, and more!
+- [Visual Studio Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) -  enhances the existing Visual Studio Live Share experience, by enabling you to quickly spin up an audio call directly from within Visual Studio Code, without needing to use a separate tool or service.
 
 ## Apps
 
