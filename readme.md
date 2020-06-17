@@ -7,9 +7,12 @@
 - [Resources](#resources)
 - [Editor Plugins](#editor-plugins)
   - [Atom Plugins](#atom-plugins)
+  - [EMACS Plugins](#emacs-plugins)
+  - [IntelliJ Plugins](#intellij-plugins)
   - [Sublime Text Plugins](#sublime-text-plugins)
   - [Vim Plugins](#vim-plugins)
   - [Visual Studio Code Plugins](#visual-studio-code-plugins)
+  - [Eclipse Plugins](#eclipse-plugins)
 - [Apps](#apps)
 - [Find Pair Programmers](#find-pair-programmers)
   - [General Pair Programming](#general-pair-programmers)
@@ -37,6 +40,7 @@
 
 ### IntelliJ Plugins
 - [Floobits IntelliJ](https://github.com/Floobits/floobits-intellij) - Remote, cross-IDE pair programming, powered by Floobits.
+- [CodeTogether](https://www.codetogether.com/) - Remote, cross-IDE pair/mob programming. Supports multiple languages.
 
 ### Sublime Text Plugins
 - [Remote Sublime](http://teamremote.github.io/remote-sublime/) - Remote Collab is an open-source SublimeText plugin for remote pair programming, allowing multiple developers to work together on the same project in real-time.
@@ -51,7 +55,12 @@
 ### Visual Studio Code Plugins
 
 - [Visual Studio Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building. It allows you to instantly (and securely) share your current project, and then as needed, share debugging sessions, terminal instances, localhost web apps, voice calls, and more!
-- [Visual Studio Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) -  enhances the existing Visual Studio Live Share experience, by enabling you to quickly spin up an audio call directly from within Visual Studio Code, without needing to use a separate tool or service.
+- [Visual Studio Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) - enhances the existing Visual Studio Live Share experience, by enabling you to quickly spin up an audio call directly from within Visual Studio Code, without needing to use a separate tool or service.
+- [CodeTogether](https://www.codetogether.com/) - Remote, cross-IDE pair/mob programming. Supports multiple languages.
+
+### Eclipse Plugins
+
+- [CodeTogether](https://www.codetogether.com/) - Remote, cross-IDE pair/mob programming. Supports multiple languages.
 
 ## Apps
 
