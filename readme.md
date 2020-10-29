@@ -36,6 +36,7 @@
 - [Floobits EMACS](https://github.com/Floobits/floobits-emacs) - Remote, cross-IDE pair programming, powered by Floobits.
 
 ### IntelliJ Plugins
+- [Code With Me](https://blog.jetbrains.com/blog/2020/09/28/code-with-me-eap/) - A tool for remote collaborative development and pair programming by JetBrains
 - [Floobits IntelliJ](https://github.com/Floobits/floobits-intellij) - Remote, cross-IDE pair programming, powered by Floobits.
 
 ### Sublime Text Plugins
