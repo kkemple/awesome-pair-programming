@@ -55,9 +55,8 @@
 
 ## Apps
 
-- [Slack - ScreenHero](https://slack.com/screenhero) - A screen-sharing client built into the Slack platform (_previously screenhero_).
 - [CollabEdit](http://collabedit.com/) - Collabedit is an online code editor that lets people collaborate in real-time.
-
+- [CoScreen](https://coscreen.co) - CoScreen lets multiple users share interactive, resizable windows from their desktop at the same time
 
 ## Find Pair Programmers
 
